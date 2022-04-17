@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @pyer-coder on GitHub.
+- 💤 I've taken a major break from my previous intense coding period to focus on other hobbies and life
+- 👀 I’m interested in Full Stack Web Development and some game development (nothing too complicated)
+- 💞️ I love programming and the combination of creativity and logic
+- 🌱 I started many years ago, as a young child, entering the world of coding, and immediately thinking I know everything
+- 😬 I'm in the midst of the world of coding, and know I know nothing
+- 🤦‍♂️ I've got a book full of ideas, and code/wireframes ready to be expanded uopn, that will likely never achieve their potential glory
+- 🔗 [pyer.me](https://www.pyer.me) my old, outdated website, in case you're curious
